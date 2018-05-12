@@ -1,0 +1,34 @@
+_repo: The-Bird-Book--13-Illustrating-in-natural-colors-more-than-seven-hundred-North-American-birds__30000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Chester A. (Chester Albert)
+    alias: Reed, Chester Albert
+    birthdate: 1876
+    deathdate: 1912
+    gutenberg_agent_id: '34298'
+    url: http://www.gutenberg.org/2009/agents/34298
+description: More than 700 North American birds illustrated, along with hundreds of
+  photographs of their nests and eggs. Gives you the information you need to make
+  a quick identification of any bird you are likely to meet, as well as a plethora
+  of information about it and its haunts.--P. [4] of cover.
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2009-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- North America'
+- !lcc 'QL'
+title: "The Bird Book\r\nIllustrating in natural colors more than seven hundred North\
+  \ American birds; also several hundred photographs of their nests and eggs."
+url: http://www.gutenberg.org/ebooks/30000
